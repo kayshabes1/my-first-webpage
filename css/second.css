@@ -1,0 +1,21 @@
+h1 {
+    color: orange;
+    text-align: left;
+} 
+h2 {
+    color: yellow;
+    font-style: bold;
+    text-align: right;
+}
+p {
+font-family: Arial;
+}
+ul{
+    line-height: initial;
+}
+body{
+    background-color: pink;
+    font-size: unset;
+    font-family: 'Times New Roman';
+    line-height: normal;
+}
